@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+        <color name="blue">#2196F3</color> <!-- Bleu vif -->
+        <color name="cream">#FFFDD0</color> <!-- Couleur crème pour la barre de navigation -->
+        <color name="yellow">#FFD700</color> <!-- Jaune pour les bordures -->
 </resources>
